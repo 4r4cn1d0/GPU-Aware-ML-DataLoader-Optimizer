@@ -1,0 +1,46 @@
+# Core ML and GPU libraries
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.13.0
+tensorflow-gpu>=2.13.0
+transformers>=4.30.0
+
+# Data processing libraries
+pandas>=2.0.0
+pyarrow>=12.0.0
+dask>=2023.5.0
+h5py>=3.8.0
+
+# System optimization libraries
+psutil>=5.9.0
+pynvml>=11.5.0
+numba>=0.57.0
+numpy>=1.24.0
+
+# Profiling and monitoring
+py-spy>=0.3.14
+memory-profiler>=0.61.0
+line-profiler>=4.0.0
+
+# Visualization and reporting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+rich>=13.3.0
+
+# Configuration and CLI
+pyyaml>=6.0
+click>=8.1.0
+pydantic>=2.0.0
+hydra-core>=1.3.0
+
+# Testing and development
+pytest>=7.3.0
+pytest-benchmark>=4.0.0
+black>=23.3.0
+isort>=5.12.0
+mypy>=1.3.0
+
+# Optional: Additional format support
+apache-beam[gcp]>=2.47.0  # For advanced TFRecord processing
+fastparquet>=2023.4.0     # Alternative Parquet engine 

@@ -427,18 +427,6 @@ We use:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- PyTorch team for the excellent deep learning framework
-- TensorFlow team for TFRecord format and tf.data optimizations
-- Apache Arrow team for efficient columnar data processing
-- Rich library for beautiful terminal output
-
-## 📞 Support
-
-- **Documentation**: [https://gpu-dataloader-optimizer.readthedocs.io](https://gpu-dataloader-optimizer.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/your-org/GPU-Aware-ML-DataLoader-Optimizer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/GPU-Aware-ML-DataLoader-Optimizer/discussions)
 
 ## 🏆 Performance Results
 
